@@ -75,3 +75,11 @@ Malicious extensions can:
 3. **Monitor**: Recheck extension list monthly for updates or security risks.
 
 ---
+
+## 👨‍💻 Author
+
+**Darsh Chatrani**  
+🔗 [LinkedIn](https://linkedin.com/in/darshchatrani)  
+📞 Contact: +91 97899 57123
+
+---
